@@ -1,2 +1,9 @@
 .venv
 .gradio
+face_images/
+no_face_images/
+no_face_80x80/
+.DS_Store
+instances_train2017.json
+instances_val2017.json
+*.pkl
